@@ -1,7 +1,7 @@
 <div align="center">
 	<br>
-	<a href="https://github.com/RAPNAK/Aham/blob/main/Image/UNDER%20CONSTRUCTION.svg">
-		<img src="header.svg" width="800" height="400" alt="Coming Soon..">
+	<a href="https://github.com/RAPNAK/Aham/blob/main/Image/UNDER%20CONSTRUCTION%20(1).svg">
+		<img src="Image/UNDER%20CONSTRUCTION%20(1).svg" width="800" height="150" alt="Coming Soon..">
 	</a>
 	<br>
 </div>
